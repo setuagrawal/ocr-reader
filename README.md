@@ -30,4 +30,4 @@ npm run dev
 [View App](https://chimerical-mousse-6d046e.netlify.app)
 
 ## want somethign similar or other development contact me at
-[Contact Me](https:/madquick.in)
+[Contact Me](https://madquick.in)
